@@ -3,12 +3,18 @@ Saron Looper
 
 If you never find or meet Saron before, I'm honored to introduce you one of the instruments of Gamelan, [Saron](http://en.wikipedia.org/wiki/Saron_(instrument)).
 
-> "Yet it is no more necessary to have real or imitation instruments in order to reap the benegits of gamelan that it is for a composer to use actual Indonesian music to demonstrate an affinity with it", -Mantle Hood
+> "Yet it is no more necessary to have real or imitation instruments in order to reap the benegits of gamelan that it is for a composer to use actual Indonesian music to demonstrate an affinity with it", 
+>
+> **Mantle Hood**
 
 Before you try the real instrument, you might want to try it through this software "Saron Looper" as simulation. "Saron Looper" is when Saron simulator meets loop station.
 
+Check out the demo on [Youtube](http://youtu.be/icvIYq-_LgI).
+
 Features
 --
+
+![image](https://raw.githubusercontent.com/ixnixnixn/SaronLooper/master/images/SaronLooper.png)
 
 - Supports both tunings, *Laras Slendro* and *Laras Pelog*
 - Record and Loop a pattern
@@ -58,7 +64,7 @@ Roning Tawang audio: [Warsaw Gamelan Group's soundcloud](https://soundcloud.com/
 Contacts
 --
 
-Email me at [ikhsan.assaat@gmail.com](mailto:ikhsan.assaat@gmail.com)
+Email me at [ikhsan.assaat@gmail.com](mailto:ikhsan.assaat@gmail.com). Or you can find me at Twitter at [@ixnixnixn](http://twitter.com/ixnixnixn).
 
 
 License
