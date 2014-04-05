@@ -1,7 +1,7 @@
 Saron Looper
 ==
 
-If you never find or meet Saron before, I'm honored to introduce you one of the instruments of Gamelan, [Saron](http://en.wikipedia.org/wiki/Saron_(instrument).
+If you never find or meet Saron before, I'm honored to introduce you one of the instruments of Gamelan, [Saron](http://en.wikipedia.org/wiki/Saron_(instrument)).
 
 > "Yet it is no more necessary to have real or imitation instruments in order to reap the benegits of gamelan that it is for a composer to use actual Indonesian music to demonstrate an affinity with it", -Mantle Hood
 
